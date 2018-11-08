@@ -24,3 +24,8 @@
 https://m.blog.naver.com/korearunner/70158423103
 http://trainerkang.com/2088
 
+텔레그램 봇 개발 정보
+https://blog.psangwoo.com/coding/2016/12/11/python-telegram-bot-2.html
+https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/
+https://bakyeono.net/post/2015-08-24-using-telegram-bot-api.html
+사실상 여기가 핵심
