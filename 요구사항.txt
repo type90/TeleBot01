@@ -17,7 +17,7 @@
 	- 골반 집중 스트레칭
 
 
--그날그날 한 스트레칭의
+-그날그날 한 스트레칭을 기록함
 
 
 동적스트레칭 정보
@@ -29,3 +29,9 @@ https://blog.psangwoo.com/coding/2016/12/11/python-telegram-bot-2.html
 https://beomi.github.io/2017/04/20/HowToMakeWebCrawler-Notice-with-Telegram/
 https://bakyeono.net/post/2015-08-24-using-telegram-bot-api.html
 사실상 여기가 핵심
+
+
+
+$ bothub configure   Username: tatekim   Password: mysecret
+
+

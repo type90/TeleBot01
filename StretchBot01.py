@@ -21,11 +21,10 @@ def proc_start(bot, update):
 
 
 def proc_rolling(bot, update):
-    chii.sendMessage('데구르르..')
+    chii.sendMessage('이썁..')
     sound = firecracker()
     chii.sendMessage(sound)
-    chii.sendMessage('르르..')
-
+d
 def proc_stop(bot, update):
     chii.sendMessage('Stop')
     chii.stop()
