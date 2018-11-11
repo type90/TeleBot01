@@ -1,6 +1,7 @@
+'''
 import telegram
 from telegram.ext import Updater, CommandHandler
-
+'''
 '''
 이 파이썬 파일은 봇 관리
  - 토큰관리
@@ -10,7 +11,7 @@ from telegram.ext import Updater, CommandHandler
  - add_handler : 기능 추가
 
 '''
-
+'''
 
 class TelegramBot:
     
@@ -47,3 +48,4 @@ class StretchBot(TelegramBot):
         self.updater.start_polling()
         self.updater.idle()
 
+'''
